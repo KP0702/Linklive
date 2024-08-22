@@ -1,4 +1,4 @@
 A webrtc based video calling app
-will explain stuff in a detailed manner whenever i get time
+yet to add UI
 //bl bla bla
 # Linklive
